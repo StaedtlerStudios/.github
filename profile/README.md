@@ -59,8 +59,8 @@ Mein Fokus liegt auf der Entwicklung von High-Performance Web-Apps und der Kreat
 ### 🤝 Bereit für digitale Exzellenz?
 Lass uns gemeinsam Ideen in Code verwandeln.
 
-[**Projekt starten**](https://tjark-staedtler.de/kontakt) | [**Instagram**](https://instagram.com/staedtlerstudios) | [**LinkedIn**](https://linkedin.com/in/tjark-staedtler)
+[**Projekt starten**](https://tjark-staedtler.de/kontakt) | [**Instagram**](https://instagram.com/tjark.staedtler)
 
-<img src="https://raw.githubusercontent.com/DEIN_USER_NAME/DEIN_USER_NAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
 
 </div>
